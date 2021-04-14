@@ -1,0 +1,15 @@
+Node Name	name	type	label	abv	Node Component Identifier	Node Degree	Node In Degree	Node Multiplicity	Node Out Degree	Node PageRank	Weighted Louvain Cluster
+n0	Culexerraticus	Mosquito	Culex erraticus	Ce	Component 1	7	2	1	5	0.9999999403953552	Cluster 1
+n1	Deinoceritesatlanticus	Mosquito	Deinocerites atlanticus	Da	Component 1	1	0	1	1	0.18897923827171326	Cluster 1
+n2	Mansoniatitillans	Mosquito	Mansonia titillans	Mt	Component 1	5	2	1	3	0.7493959069252014	Cluster 2
+n3	Alouattaseniculus	Host	Alouatta seniculus	As	Component 1	1	1	1	0	0.1790400594472885	Cluster 2
+n4	Ardeaalba	Host	Ardea alba	Aa	Component 1	1	1	1	0	0.1734224408864975	Cluster 1
+n5	Bufomarinus	Host	Bufo marinus	Bm	Component 1	1	1	1	0	0.1790400594472885	Cluster 2
+n6	Dendrocygnaautumnalis	Host	Dendrocygna atumnalis	Dea	Component 1	1	1	1	0	0.1734224408864975	Cluster 1
+n7	Egrettaalba	Host	Egretta alba	Ea	Component 1	1	1	1	0	0.1734224408864975	Cluster 1
+n8	Homosapiens	Host	Homo sapiens	Hs	Component 1	1	1	1	0	0.1734224408864975	Cluster 1
+n9	Phalacrocoraxcarbo	Host	Phalacrocorax carbo	Phc	Component 1	2	2	1	0	0.32460570335388184	Cluster 1
+n10	Wilsoniacitrina	Host	Wilsonia citrina	Wc	Component 1	1	1	1	0	0.1790400594472885	Cluster 2
+n11	SLEV	Virus	SLEV	SLEV	Component 1	2	0	1	2	0.29332566261291504	Cluster 2
+n12	VEEV	Virus	VEEV	VEEV	Component 1	1	0	1	1	0.1790400594472885	Cluster 2
+n13	WNV	Virus	WNV	WNV	Component 1	1	0	1	1	0.1734224408864975	Cluster 1

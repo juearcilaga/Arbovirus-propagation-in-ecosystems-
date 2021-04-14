@@ -1,0 +1,16 @@
+Node Name	name	type	label	abv	Node Component Identifier	Node Degree	Node In Degree	Node Multiplicity	Node Out Degree	Node PageRank	Weighted Louvain Cluster
+n0	Aedesaegypti	Mosquito	Aedes aegypti	Aea	Component 1	5	1	1	4	0.58221036195755	Cluster 2
+n1	Culexquinquefasciatus	Mosquito	Culex quinquefasciatus	Cq	Component 1	9	1	1	8	1	Cluster 1
+n2	Ardeaalba	Host	Ardea alba	Aa	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n3	Artibeusjamaicenses	Host	Artibeus jamaicenses	Aj	Component 1	1	1	1	0	0.1390887051820755	Cluster 2
+n4	Bostaurus	Host	Bos taurus	Bt	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n5	Bubulcusibis	Host	Bubulcus ibis	Bi	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n6	Canisfamiliaris	Host	Canis familiaris	Cf	Component 1	1	1	1	0	0.1390887051820755	Cluster 2
+n7	Chondrohieraxuncinatus	Host	Chondrohierax uncinatus	Chu	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n8	Columbasp	Host	Columba sp	Cs	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n9	Gallusgallus	Host	Gallus gallus	Gg	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n10	Homosapiens	Host	Homo sapiens	Hs	Component 1	2	2	1	0	0.22797751426696777	Cluster 1
+n11	Meleagrisgallipavum	Host	Meleagris gallipavum	Mg	Component 1	1	1	1	0	0.13482391834259033	Cluster 1
+n12	Musmusculus	Host	Mus musculus	Mm	Component 1	1	1	1	0	0.1390887051820755	Cluster 2
+n13	CxFv	Virus	CxFv	CxFv	Component 1	1	0	1	1	0.13482391834259033	Cluster 1
+n14	DENV2	Virus	DENV2	DENV2	Component 1	1	0	1	1	0.1390887051820755	Cluster 2

@@ -1,0 +1,49 @@
+Node Name	name	type	label	abv	Node Component Identifier	Node Degree	Node In Degree	Node Multiplicity	Node Out Degree	Node PageRank	Weighted Louvain Cluster
+n0	Aedesaegypti	Mosquito	Aedes aegypti	Aea	Component 1	5	1	1	4	0.4014851450920105	Cluster 1
+n1	Aedesscapularis	Mosquito	Aedes scapularis	Aes	Component 1	4	1	1	3	0.5088173747062683	Cluster 4
+n2	Alouattaseniculus	Host	Alouatta seniculus	As	Component 1	1	1	1	0	0.16745176911354065	Cluster 2
+n3	Ardeaalba	Host	Ardea alba	Aa	Component 1	1	1	1	0	0.47183963656425476	Cluster 4
+n4	Artibeusjamaicenses	Host	Artibeus jamaicenses	Aj	Component 1	2	2	1	0	0.17443613708019257	Cluster 4
+n5	Bostaurus	Host	Bos taurus	Bt	Component 1	1	1	1	0	0.17732854187488556	Cluster 1
+n6	Bradypusvariegatus	Host	Bradypus variegatus	Brv	Component 1	1	1	1	0	0.16745176911354065	Cluster 2
+n7	Bubulcusibis	Host	Bubulcus ibis	Bi	Component 1	1	1	1	0	0.2293694019317627	Cluster 2
+n8	Bufomarinus	Host	Bufo marinus	Bm	Component 1	1	1	1	0	0.1689661592245102	Cluster 2
+n9	Buteogallusanthracinus	Host	Buteogallus anthracinus	Bua	Component 1	1	1	1	0	0.11358647048473358	Cluster 3
+n10	Calidrisalba	Host	Calidris alba	Ca	Component 1	1	1	1	0	0.17300501465797424	Cluster 3
+n11	Canisfamiliaris	Host	Canis familiaris	Cf	Component 1	1	1	1	0	0.23719348013401031	Cluster 1
+n12	Chloroceryleamericana	Host	Chloroceryle americana	Cha	Component 1	1	1	1	0	0.11358647048473358	Cluster 3
+n13	Chondrohieraxuncinatus	Host	Chondrohierax uncinatus	Chu	Component 1	1	1	1	0	0.2293694019317627	Cluster 2
+n14	Columbasp	Host	Columba sp	Cs	Component 1	1	1	1	0	0.11457117646932602	Cluster 1
+n15	Culex_spp	Mosquito	Culex_spp	Culex_spp	Component 1	1	1	1	0	0.18589751422405243	Cluster 4
+n16	Culexerraticus	Mosquito	Culex erraticus	Ce	Component 1	5	1	1	4	0.9655525088310242	Cluster 1
+n17	Culexquinquefasciatus	Mosquito	Culex quinquefasciatus	Cq	Component 1	5	1	1	4	0.7033855319023132	Cluster 1
+n18	CxFv	Virus	CxFv	CxFv	Component 1	1	0	1	1	0.18893012404441833	Cluster 1
+n19	Deinoceritesatlanticus	Mosquito	Deinocerites atlanticus	Da	Component 1	8	0	1	8	1	Cluster 3
+n20	Dendrocygnaautumnalis	Host	Dendrocygna atumnalis	Dea	Component 1	1	1	1	0	0.17300501465797424	Cluster 3
+n21	DENV2	Virus	DENV2	DENV2	Component 1	1	0	1	1	0.11628562957048416	Cluster 1
+n22	Didelphismarsupialis	Host	Didelphis marsupialis	Dm	Component 1	1	1	1	0	0.10742776095867157	Cluster 2
+n23	Egrettaalba	Host	Egretta alba	Ea	Component 1	1	1	1	0	0.22838473320007324	Cluster 2
+n24	Egrettathula	Host	Egretta thula	Et	Component 1	1	1	1	0	0.11358647048473358	Cluster 3
+n25	Equusasinus	Host	Equus asinus	Ea	Component 1	1	1	1	0	0.1148054376244545	Cluster 1
+n26	Equuscaballus	Host	Equus caballus	Ec	Component 1	1	1	1	0	0.1148054376244545	Cluster 1
+n27	Gallusgallus	Host	Gallus gallus	Gg	Component 1	1	1	1	0	0.11457117646932602	Cluster 1
+n28	Haemagoguslucifer	Mosquito	Haemagogus lucifer	Hl	Component 1	2	1	1	1	0.4501804709434509	Cluster 1
+n29	Homosapiens	Host	Homo sapiens	Hs	Component 1	7	7	1	0	0.5360772013664246	Cluster 1
+n30	Iguanaiguana	Host	Iguana iguana	Lgi	Component 1	1	1	1	0	0.11358647048473358	Cluster 3
+n31	Mansoniatitillans	Mosquito	Mansonia titillans	Mt	Component 1	12	1	1	11	0.9691457152366638	Cluster 2
+n32	Meleagrisgallipavum	Host	Meleagris gallipavum	Mg	Component 1	1	1	1	0	0.11457117646932602	Cluster 1
+n33	Musmusculus	Host	Mus musculus	Mm	Component 1	1	1	1	0	0.17443613708019257	Cluster 1
+n34	Oligoryzomyssp	Host	Oligoryzomys sp	Os	Component 1	1	1	1	0	0.10742776095867157	Cluster 2
+n35	Ovisaries	Host	Ovis aries	Oa	Component 1	1	1	1	0	0.11019857972860336	Cluster 4
+n36	Passerdomesticus	Host	Passer domesticus	Pd	Component 1	1	1	1	0	0.11146662384271622	Cluster 1
+n37	Pelecanussp	Host	Pelecanus sp	Ps	Component 1	1	1	1	0	0.11146662384271622	Cluster 1
+n38	Phalacrocoraxcarbo	Host	Phalacrocorax carbo	Phc	Component 1	1	1	1	0	0.22838473320007324	Cluster 2
+n39	Pluvialissp	Host	Pluvialis sp	Plsp	Component 1	1	1	1	0	0.11146662384271622	Cluster 1
+n40	Psorophoraconfinnis	Mosquito	Psorophora confinnis	Pc	Component 1	5	0	1	5	0.6275741457939148	Cluster 1
+n41	Rattusrattus	Host	Rattus rattus	Rr	Component 1	1	1	1	0	0.1148054376244545	Cluster 1
+n42	Rhinellaamericana	Host	Rhinella americana	Rha	Component 1	1	1	1	0	0.11358647048473358	Cluster 3
+n43	SLEV	Virus	SLEV	SLEV	Component 1	1	0	1	1	0.16684632003307343	Cluster 2
+n44	VEEV	Virus	VEEV	VEEV	Component 1	2	0	1	2	0.3642329275608063	Cluster 4
+n45	Wilsoniacitrina	Host	Wilsonia citrina	Wc	Component 1	1	1	1	0	0.16745176911354065	Cluster 2
+n46	WNV	Virus	WNV	WNV	Component 1	1	0	1	1	0.11146662384271622	Cluster 1
+n47	YFV	Virus	YFV	YFV	Component 1	1	0	1	1	0.11207208782434464	Cluster 1
